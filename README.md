@@ -7,5 +7,5 @@ Rules:
 
 2. Then there are few questions based on what Sushmitha likes you have to answer them.
 
-3.After that the score will increase, and you will get your final score.
+ 3.After that the score will increase, and you will get your final score.
 
